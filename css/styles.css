@@ -13,7 +13,7 @@ body{
 /*========== header section css ==========*/
 header{
     padding: 120px 0;
-    background-image: url("../images/banner/banner1.png");
+    background-image: url("/images/banner/banner1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
