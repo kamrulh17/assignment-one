@@ -13,7 +13,7 @@ body{
 /*========== header section css ==========*/
 header{
     padding: 120px 0;
-    background: url("/images/banner/banner1.png");
+    background: url("../images/banner/banner1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -150,7 +150,7 @@ header{
     color: rgb(241, 91, 34);
     margin: 100px 200px;
     padding: 30px 50px;
-    background: linear-gradient(to right,rgba(241, 91, 34,1),rgba(241, 91, 34,0)),url("/images/watch.png");
+    background: linear-gradient(to right,rgba(241, 91, 34,1),rgba(241, 91, 34,0)),url("../images/watch.png");
     border-radius: 3px;
 }
 .call-now-items{
